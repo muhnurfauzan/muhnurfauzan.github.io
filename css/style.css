@@ -131,9 +131,9 @@ ul li {
 	border-color: #512DA8;
 }
 
-#tweet li {
-	background: #33691E;
-	border-color: #33691E;
+#facebook li {
+	background: #3b5998;
+	border-color: #3b5998;
 }
 
 #upvote li{
@@ -166,14 +166,14 @@ ul li {
 	border-color: #231F20;
 }
 
-#linkedin li {
-	background: #007BB6;
-	border-color: #007BB6;
+#instagram li {
+	background: #ffba19;
+	border-color: #ffba19;
 }
 
-#quora li {
-	background: #B92B27;
-	border-color: #B92B27;
+#telegram li {
+	background: #0088CC;
+	border-color: #0088CC;
 }
 
 #envelope li {
